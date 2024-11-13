@@ -1,0 +1,45 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Stephanie Frost"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - href: publications/index.qmd
+        text: Publications
+      - href: cv.qmd
+        text: Curriculum Vitae
+      - text: Research
+        menu: 
+          - href: research/index.qmd
+            text: "Coming Soon!"
+      - href: News/index.qmd
+        text: "News"
+        
+    right: 
+      - text: Connect with Me
+        menu: 
+          - href: mailto:frosts@usf.edu
+            text: "{{< fa envelope size=x1 >}} Email"
+          - href: https://scholar.google.com/citations?user=chh6s00AAAAJ&hl=fr
+            text: "{{< fa brands google-scholar >}} Google Scholar"
+          - href: www.linkedin.com/in/stephanie-frost21
+            text: "{{< fa brands linkedin size=xl >}} LinkedIn"
+          - href: https://x.com/StephanieF21_
+            icon: twitter
+            text: Twitter/X
+            
+
+format:
+  html:
+    theme: 
+      light: lumen
+      dark: solar
+    css: styles.css
+    toc: true
+
+
+

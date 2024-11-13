@@ -1,0 +1,20 @@
+---
+title: "Publications"
+listing:
+  - id: first-author-papers
+    contents: ../pubs.yaml
+    template: papers.ejs
+    sort: "date desc"
+  - id: contributed-papers
+    contents: ../contributed.yaml
+    template: papers.ejs
+    sort: "date desc"
+---
+
+## First-author publications
+:::{#first-author-papers}
+:::
+
+## Contributed publications
+:::{#contributed-papers}
+:::

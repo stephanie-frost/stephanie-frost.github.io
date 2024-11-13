@@ -1,0 +1,42 @@
+---
+title: "Stephanie J. H. Frost"
+image: files/frost-headshot.JPG
+image-alt: this is a picture of Stephanie
+about: 
+  id: hero-heading
+  template: trestles
+  image-shape: rounded
+  links:
+    - href: https://scholar.google.com/citations?user=chh6s00AAAAJ&hl=fr
+      text: "{{< fa brands google-scholar >}} Google Scholar"
+    - icon: briefcase-fill
+      text: ORCiD
+      href: https://orcid.org/my-orcid?orcid=0000-0002-7866-0549
+    - text: "{{< fa brands linkedin size=xl >}} LinkedIn"
+      href: www.linkedin.com/in/stephanie-frost21
+    - icon: twitter
+      text: Twitter/X
+      href: https://x.com/StephanieF21_
+    - icon: github
+      text: GitHub
+      href: https://github.com/stephanie-frost
+---
+
+:::{#hero-heading}
+Stephanie Frost is a fourth-year graduate student at the University of South Florida studying Chemistry Education Research under the direction of Jeff Raker. 
+
+To keep up with my publications, please follow me on [Google Scholar](https://scholar.google.com/citations?user=chh6s00AAAAJ&hl=fr)!
+
+<h2 style="text-align: center;">Recent Publications</h2>
+
+::: {layout-ncol=2}
+![Feelings of Shame in a First Semester Organic Chemistry Course: Associations between Shame and Examination Performance for Multiple Learner Groups](files/shame-abstract.webp)  
+  **Feelings of Shame in a First Semester Organic Chemistry Course: Associations between Shame and Examination Performance for Multiple Learner Groups**  
+  <a href="https://pubs.acs.org/doi/full/10.1021/acs.jchemed.4c00754">Read the full publication</a>
+
+![Motivation Differences in First-Semester Organic Chemistry: A Comparison between First-Time-in-College Students and Transfer Students](files/motiv-abstract.gif)  
+  **Motivation Differences in First-Semester Organic Chemistry: A Comparison between First-Time-in-College Students and Transfer Students**  
+  <a href="https://pubs.acs.org/doi/full/10.1021/acs.jchemed.3c00579">Read the full publication</a>
+:::
+
+:::

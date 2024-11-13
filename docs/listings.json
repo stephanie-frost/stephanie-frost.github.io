@@ -1,0 +1,24 @@
+[
+  {
+    "listing": "/teaching/index.html",
+    "items": []
+  },
+  {
+    "listing": "/News/index.html",
+    "items": [
+      "/News/news1.html"
+    ]
+  },
+  {
+    "listing": "/pubs.html",
+    "items": []
+  },
+  {
+    "listing": "/cv.html",
+    "items": []
+  },
+  {
+    "listing": "/publications/index.html",
+    "items": []
+  }
+]

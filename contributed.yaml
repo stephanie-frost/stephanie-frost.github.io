@@ -1,0 +1,30 @@
+- title: "Impact of Prompt Cueing on Level of Explanation Sophistication for Organic Reaction Mechanisms"
+  short: "cueing2024"
+  author:
+    - Caroline J. Crowder
+    - Brandon J. Yik
+    - Stephanie J. H. Frost
+    - Daniel Cruz-Ramírez de Arellano
+    - Jeffrey R. Raker
+  date: 2024-01
+  year: 2024
+  journal: "<i>Journal of Chemical Education</i>"
+  abstract: "Understanding reaction mechanisms is integral to success in organic chemistry; however, prior research suggests that learners struggle with recognizing the importance of underlying implicit features in reaction mechanisms. Because of this struggle, understanding how learners’ reason about reaction mechanisms and developing assessments to elicit certain types of reasoning has been a topic of great interest in organic chemistry education research. Much of the work with assessments and learner reasoning focuses on scaffolding simple reaction mechanism prompts; however, what has not been focused on is how modifying the levels of prompt support impacts learner reasoning. This work seeks to evaluate the impact of varying cueing in constructed-response assessment prompts on the level of explanation sophistication for nucleophiles and electrophiles. Assessment prompts utilize five reaction mechanisms commonly taught in first-semester organic chemistry. Previously reported nucleophile and electrophile rubrics were used to analyze 2,079 written explanations by learners. Our data for all five reaction mechanisms suggest that our highest cued prompt somewhat elicits higher levels of explanation sophistication. However, when each reaction mechanism is considered individually, we found no differences between the prompt used and level of explanation sophistication for three of the five reaction mechanisms. Our data suggest a more inconclusive overall finding. We emphasize the instructional context, learners’ knowledge limitations during assessment, and the extent to which more cueing and scaffolding in the assessment item is necessary to elicit desired responses. Our results confirm that assessments drive learning, even when considering a null and nuanced finding of our study."
+  pubclosed: https://doi.org/10.1021/acs.jchemed.3c00710
+  
+- title: "Generalized rubric for level of explanation sophistication for nucleophiles in organic chemistry reaction mechanisms"
+  short: "nucleohiles2022"
+  author:
+    - Brandon J. Yik
+    - Amber J. Dood
+    - Stephanie J. H. Frost
+    - Daniel Cruz-Ramírez de Arellano
+    - Kimberly Bliss-Roche
+    - Jeffrey R. Raker
+  date: 2022-01
+  year: 2022
+  journal: "<i>Chemistry Education Research and Practice</i>"
+  abstract: "Reaction mechanisms are central to organic chemistry and organic chemistry education. Assessing understanding of reaction mechanisms can be evaluated holistically, wherein the entire mechanism is considered; however, we assert that such an evaluation does not account for how learners variably understand mechanistic components (e.g., nucleophile, electrophile) or steps (e.g., nucleophilic attack, proton transfer). For example, a learner may have proficiency of proton transfer steps without sufficient proficiency of a step where a nucleophile and electrophile interact. Herein, we report the development of a generalized rubric to assess the level of explanation sophistication for nucleophiles in written explanations of organic chemistry reaction mechanisms from postsecondary courses. This rubric operationalizes and applies chemistry education research findings by articulating four hierarchical levels of explanation sophistication: absent, descriptive, foundational, and complex. We provide evidence for the utility of the rubric in an assortment of contexts: (a) stages of an organic chemistry course (i.e., first or second semester), (b) across nucleophile and reaction types, and (c) across prompt variations. We, as well, present a case study detailing how this rubric could be applied in a course to collect assessment data to inform learning and instruction. Our results demonstrate the practical implementation of this rubric to assess understanding of nucleophiles and offer avenues for establishing rubrics for additional mechanistic components, and understanding and evaluating curricula."
+  pubclosed: https://pubs.rsc.org/en/content/articlelanding/2023/rp/d2rp00184e
+  
+  

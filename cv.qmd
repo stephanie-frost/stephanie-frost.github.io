@@ -1,0 +1,10 @@
+---
+title: "Curriculum Vitae"
+---
+
+# <i class="fa-solid fa-graduation-cap"></i> PDF of CV
+
+ [Download my CV](frost-2024-cv.pdf) \
+ *Last updated November 2024*
+
+<iframe src="frost-2024-cv.pdf" width="100%" height="800px"></iframe>

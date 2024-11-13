@@ -1,0 +1,38 @@
+{
+  "index.qmd": {
+    "index.html": "63a9f1bc"
+  },
+  "about.qmd": {
+    "about.html": "de9a95d2"
+  },
+  "research/index.qmd": {
+    "index.html": "813a1120"
+  },
+  "pubs.qmd": {
+    "pubs.html": "515acd0b"
+  },
+  "News/index.qmd": {
+    "index.html": "f4b3732f"
+  },
+  "News/news1.qmd": {
+    "news1.html": "dad4dfd5"
+  },
+  "teaching/index.qmd": {
+    "index.html": "23dfade9"
+  },
+  "publications/index.qmd": {
+    "index.html": "6483b6b2"
+  },
+  "cv.qmd": {
+    "cv.html": "a1667af4"
+  },
+  "research/research1.qmd": {
+    "research1.html": "8482535b"
+  },
+  "research/research2.qmd": {
+    "research2.html": "5ef15c3b"
+  },
+  "research/research3.qmd": {
+    "research3.html": "6035898b"
+  }
+}
