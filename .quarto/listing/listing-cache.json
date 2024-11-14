@@ -1,21 +1,14 @@
 {
   "listingMap": {
+    "publications/index.qmd": [
+      "../pubs.yaml",
+      "../contributed.yaml"
+    ],
     "News/index.qmd": [
-      "B3049D40"
+      "news"
     ],
     "teaching/index.qmd": [
       "B3049D40"
-    ],
-    "pubs.qmd": [
-      "pubs.yaml"
-    ],
-    "publications/index.qmd": [
-      "../pubs.yaml",
-      "../conributed.yaml",
-      "../contributed.yaml"
-    ],
-    "cv.qmd": [
-      "pubs.yaml"
     ]
   }
 }
