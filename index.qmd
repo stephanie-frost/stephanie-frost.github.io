@@ -7,7 +7,7 @@ about:
   template: trestles
   image-shape: rounded
   links:
-    - href: https://scholar.google.com/citations?user=chh6s00AAAAJ&hl=fr
+    - href: https://scholar.google.com/citations?user=chh6s00AAAAJ&hl=en
       text: "{{< fa brands google-scholar >}} Google Scholar"
     - icon: briefcase-fill
       text: ORCiD
@@ -25,7 +25,7 @@ about:
 :::{#hero-heading}
 Stephanie Frost is a fourth-year graduate student at the University of South Florida studying Chemistry Education Research under the direction of Jeff Raker. 
 
-To keep up with my publications, please follow me on [Google Scholar](https://scholar.google.com/citations?user=chh6s00AAAAJ&hl=fr)!
+To keep up with my publications, please follow me on [Google Scholar](https://scholar.google.com/citations?user=chh6s00AAAAJ&hl=en)!
 
 <h2 style="text-align: center;">Recent Publications</h2>
 

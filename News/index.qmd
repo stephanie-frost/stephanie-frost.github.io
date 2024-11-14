@@ -1,6 +1,8 @@
 ---
 title: "News!"
+listing:
+  contents: news
+  sort: "date desc"
+  type: default
+  categories: false
 ---
-
-# 2024
-Insert

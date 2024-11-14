@@ -3,11 +3,10 @@ title: Research
 ---
 
 ## [Research Interest 1](research/research1.qmd)
-Summary here
-
+Coming soon!
 
 ## [Research Interest 2](research/research2.qmd)
-Summary here
+Coming soon!
 
 ## [Reseach Interest 3](resarch/research3.qmd)
-Summary here
+Coming soon!
